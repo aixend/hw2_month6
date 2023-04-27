@@ -35,10 +35,10 @@ class MainActivity : AppCompatActivity() {
         list.add(Photo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnK9wmlXuG-kKY_5HNypGjHHuUfIOGuA4bCQ&usqp=CAU"))
         list.add(Photo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBGRGJ8P7RJc9H_rzd5ao7JiVW4xXDHvkGBQ&usqp=CAU"))
         list.add(Photo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJn-4RizNgbcVipo7zNVnYI6wyIPW3dTAaA&usqp=CAU"))
-        list.add(Photo("https://i.pinimg.com/originals/f3/03/1c/f3031c2a7cfc8fdd4e90a32b5ccb8c91.jpg"))
-        list.add(Photo("https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408-825x465.jpg"))
-        list.add(Photo("https://images.all-free-download.com/images/graphiclarge/beautiful_scenery_04_hd_images_166175.jpg"))
-        list.add(Photo("https://i.pinimg.com/originals/e6/87/24/e68724db306f08ee2ab2d3ed9f6ea8bb.jpg"))
-        list.add(Photo("https://st.depositphotos.com/1903767/3375/i/600/depositphotos_33751169-stock-photo-provence-france-lavender-in-a.jpg"))
+        list.add(Photo("https://pbs.twimg.com/media/EvZQDYpVcAAMr1P.jpg:large"))
+        list.add(Photo("https://asiapoisk.com/uploads/cache/albums/THE_BOYZ_Sweet_album_cover-jpg-465x465.jpg"))
+        list.add(Photo("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzldziCm-yKPpWzBWSgid_QYxteYWxFUvtYw&usqp=CAU"))
+        list.add(Photo("https://i1.sndcdn.com/artworks-GVJX4ENgJXJ3Nmd1-vks5oQ-t500x500.jpg"))
+        list.add(Photo("https://i1.sndcdn.com/artworks-GVJX4ENgJXJ3Nmd1-vks5oQ-t500x500.jpg"))
     }
 }
